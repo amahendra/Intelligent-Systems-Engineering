@@ -1,0 +1,35 @@
+PEDOMAN KERJA PEMELIHARAAN SARANA
+NOMOR DOKUMEN : SOP-PS-003
+JUDUL        : Pelaporan Temuan dan Persetujuan Tindak Lanjut
+UNIT         : Pemeliharaan Sarana
+REVISI       : 00
+
+1. TUJUAN
+Memastikan temuan pemeriksaan, rekomendasi teknis, dan keputusan tindak lanjut dicatat dan memiliki penanggung jawab yang jelas.
+
+2. RUANG LINGKUP
+Pelaporan temuan pada aset sarana, verifikasi oleh pengawas, dan pengelolaan work order pada sistem pemeliharaan.
+
+3. PIHAK TERKAIT
+3.1 Teknisi: membuat laporan inspeksi, melampirkan bukti, dan mengusulkan pemeriksaan lanjutan.
+3.2 Supervisor: memverifikasi kelengkapan laporan, menilai prioritas, dan memberi persetujuan sesuai kewenangan.
+3.3 Administrator sistem: menjaga keutuhan catatan, akses, dan audit trail.
+
+4. PENYUSUNAN LAPORAN
+4.1 Cantumkan nomor aset, posisi komponen, tanggal, waktu, dan identitas petugas.
+4.2 Uraikan observasi faktual dan bedakan hasil ukur, indikasi model, serta dugaan yang belum terverifikasi.
+4.3 Cantumkan rujukan dokumen teknis yang digunakan.
+4.4 Sertakan foto atau data sensor bila akses dan kebijakan informasi mengizinkan.
+
+5. PROSES PERSETUJUAN
+5.1 Sistem atau teknisi mengirim laporan kepada supervisor melalui jalur kerja resmi.
+5.2 Supervisor memeriksa data, permintaan klarifikasi, dan konsekuensi keselamatan sebelum memberi keputusan.
+5.3 Rekomendasi yang dihasilkan oleh aplikasi AI diperlakukan sebagai bahan bantu, bukan persetujuan otomatis.
+5.4 Keputusan dapat berupa meminta data tambahan, menjadwalkan pemeriksaan, atau meneruskan eskalasi sesuai wewenang.
+5.5 Work order dibuat atau diperbarui oleh pengguna atau sistem yang telah mendapat otorisasi.
+
+6. AUDIT TRAIL
+Catat waktu pengajuan, identitas pengusul, perubahan data, identitas pemberi persetujuan, status tindak lanjut, dan rujukan work order.
+
+7. PENUTUP
+Keputusan operasional harus dapat ditelusuri ke bukti pemeriksaan, dokumen resmi yang berlaku, serta otorisasi manusia yang kompeten.

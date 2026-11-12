@@ -1,0 +1,5 @@
+event_id,asset_id,temperature_c,vibration_mm_s,timestamp,unit,source
+evt-1001,TR-001,89.0,3.1,2026-11-11T09:55:00+07:00,C,simulated-sensor
+evt-1002,TR-001,92.0,3.8,2026-11-11T10:00:00+07:00,C,simulated-sensor
+evt-2001,TR-002,56.0,1.2,2026-11-11T10:01:00+07:00,C,simulated-sensor
+evt-bad,TR-001,tidak ada,2.0,2026-11-11T10:03:00+07:00,C,simulated-sensor

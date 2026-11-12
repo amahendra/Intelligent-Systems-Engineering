@@ -1,0 +1,35 @@
+PEDOMAN KERJA PEMELIHARAAN SARANA
+NOMOR DOKUMEN : SOP-PS-001
+JUDUL        : Pemeriksaan Awal Bantalan Gandar (Axle Bearing)
+UNIT         : Pemeliharaan Sarana
+REVISI       : 00
+
+1. TUJUAN
+Menetapkan urutan pemeriksaan awal bantalan gandar agar temuan kondisi tidak normal dicatat, diverifikasi, dan ditindaklanjuti oleh petugas berwenang.
+
+2. RUANG LINGKUP
+Pemeriksaan visual dan pemeriksaan kondisi awal bantalan gandar ketika sarana berada pada lokasi pemeriksaan yang telah dinyatakan aman oleh petugas lapangan.
+
+3. TANGGUNG JAWAB
+3.1 Teknisi melakukan pemeriksaan, dokumentasi, dan pelaporan temuan.
+3.2 Pengawas pemeliharaan memverifikasi temuan dan menentukan tindak lanjut melalui prosedur yang berlaku.
+3.3 Petugas keselamatan memastikan persyaratan pengamanan pekerjaan dipenuhi sesuai aturan unit kerja.
+
+4. PERSIAPAN
+4.1 Konfirmasi identitas sarana dan nomor aset dari registri aset.
+4.2 Periksa work order, riwayat pemeliharaan, dan catatan gangguan yang tersedia.
+4.3 Pastikan izin kerja, pengamanan sarana, dan penggunaan APD telah diverifikasi oleh pihak berwenang.
+4.4 Gunakan daftar periksa yang berlaku pada jenis sarana terkait.
+
+5. LANGKAH PEMERIKSAAN
+5.1 Cocokkan identitas bantalan gandar dengan data aset dan catatan pemeliharaan.
+5.2 Amati kondisi bagian yang dapat diperiksa secara aman, termasuk indikasi kebocoran, kontaminasi, kerusakan fisik, dan tanda perubahan warna yang tidak lazim.
+5.3 Catat bunyi, getaran, atau indikasi lain yang dilaporkan petugas operasi. Lakukan pengukuran tambahan hanya sesuai instruksi kerja yang berlaku.
+5.4 Bila ditemukan indikasi tidak normal, dokumentasikan lokasi, waktu, identitas aset, foto jika diizinkan, serta uraian observasi.
+5.5 Laporkan temuan kepada pengawas untuk verifikasi dan penentuan tindakan. Jangan menyimpulkan kelayakan operasi hanya dari satu indikator.
+
+6. PENCATATAN
+Catatan minimum meliputi tanggal, nomor aset, identitas pemeriksa, observasi, sumber informasi, dan nomor work order bila ada.
+
+7. ESKALASI
+Temuan yang berpotensi memengaruhi keselamatan harus segera disampaikan kepada pengawas sesuai jalur eskalasi yang berlaku. Keputusan operasional berada pada petugas yang memiliki kewenangan.
